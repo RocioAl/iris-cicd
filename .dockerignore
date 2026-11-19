@@ -1,0 +1,11 @@
+.venv
+.venv_limpio
+.git
+.github
+tests
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+README.md
